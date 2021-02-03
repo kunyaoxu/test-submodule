@@ -1,0 +1,3 @@
+[submodule "sub-module/constant"]
+	path = sub-module/constant
+	url = https://github.com/kunyaoxu/a-submodule
